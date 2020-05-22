@@ -1,5 +1,7 @@
 # Cotizador de Criptomonedas con React ⚛️
 
+![image](https://user-images.githubusercontent.com/12043905/82709670-b960e400-9c46-11ea-8fd2-e5595932b4a2.png)
+
 ### Instrucciones para ejecutar esta aplicación en tu equipo
 
 * Descárgate el repositorio
